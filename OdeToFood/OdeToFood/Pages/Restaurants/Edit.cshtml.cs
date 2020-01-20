@@ -57,7 +57,7 @@ namespace OdeToFood.Pages.Restaurants
             }
             else
             {
-                restaurantData.Add(Restaurant);
+                restaurantData.Add(Restaurant);     
             }
             restaurantData.Commit();
             TempData["Message"] = "Restaurant Saved!";

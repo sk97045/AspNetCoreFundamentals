@@ -4,9 +4,11 @@ C:\Users\shukuma\learn\Programming\C#\AspNetCoreFundamentals\OdeToFood\OdeToFood
 C:\Users\shukuma\learn\Programming\C#\AspNetCoreFundamentals\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Core.dll
 C:\Users\shukuma\learn\Programming\C#\AspNetCoreFundamentals\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Core.pdb
 C:\Users\shukuma\learn\Programming\C#\AspNetCoreFundamentals\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.csprojAssemblyReference.cache
-C:\Users\shukuma\learn\Programming\C#\AspNetCoreFundamentals\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.csproj.CoreCompileInputs.cache
 C:\Users\shukuma\learn\Programming\C#\AspNetCoreFundamentals\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.AssemblyInfoInputs.cache
 C:\Users\shukuma\learn\Programming\C#\AspNetCoreFundamentals\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.AssemblyInfo.cs
 C:\Users\shukuma\learn\Programming\C#\AspNetCoreFundamentals\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.csproj.CopyComplete
 C:\Users\shukuma\learn\Programming\C#\AspNetCoreFundamentals\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.dll
 C:\Users\shukuma\learn\Programming\C#\AspNetCoreFundamentals\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.pdb
+C:\Users\shukuma\learn\Programming\C#\AspNetCoreFundamentals\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Data.runtimeconfig.json
+C:\Users\shukuma\learn\Programming\C#\AspNetCoreFundamentals\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Data.runtimeconfig.dev.json
+C:\Users\shukuma\learn\Programming\C#\AspNetCoreFundamentals\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.csproj.CoreCompileInputs.cache
