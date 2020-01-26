@@ -10,7 +10,7 @@ using OdeToFood.Data;
 
 namespace OdeToFood.Pages.Restaurants
 {
-    public class ListModel : PageModel
+    public class ListModel : PageModel  //Controller
     {
         public string Message { get; set; }
         private readonly IConfiguration config;
