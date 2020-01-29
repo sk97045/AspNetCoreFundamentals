@@ -1,9 +1,18 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
   </PropertyGroup>
 
+  <Target Name="PostBuild" AfterTargets="ComputeFilesToPublish">
+    <Exec Command="npm install" />  
+  </Target>
+
+  <ItemGroup>
+    <Content Include="node_modules/**" CopyToPublishDirectory="PreserveNewest" />
+  </ItemGroup>
+
+  <!-- Exclude this since we are anyways going to include node_modules folder above, each time afterwe build the projec
   <ItemGroup>
     <Content Include="node_modules\datatables.net-bs\css\dataTables.bootstrap.css" />
     <Content Include="node_modules\datatables.net-bs\css\dataTables.bootstrap.min.css" />
@@ -147,6 +156,8 @@
     <None Include="node_modules\jquery\src\wrap.js" />
   </ItemGroup>
 
+-->
+  
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.App" />
     <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />

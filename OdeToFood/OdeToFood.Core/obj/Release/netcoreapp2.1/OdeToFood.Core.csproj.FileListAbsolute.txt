@@ -1,0 +1,9 @@
+C:\Users\shukuma\learn\Programming\C#\AspNetCoreFundamentals\OdeToFood\OdeToFood.Core\bin\Release\netcoreapp2.1\OdeToFood.Core.deps.json
+C:\Users\shukuma\learn\Programming\C#\AspNetCoreFundamentals\OdeToFood\OdeToFood.Core\bin\Release\netcoreapp2.1\OdeToFood.Core.dll
+C:\Users\shukuma\learn\Programming\C#\AspNetCoreFundamentals\OdeToFood\OdeToFood.Core\bin\Release\netcoreapp2.1\OdeToFood.Core.pdb
+C:\Users\shukuma\learn\Programming\C#\AspNetCoreFundamentals\OdeToFood\OdeToFood.Core\obj\Release\netcoreapp2.1\OdeToFood.Core.csprojAssemblyReference.cache
+C:\Users\shukuma\learn\Programming\C#\AspNetCoreFundamentals\OdeToFood\OdeToFood.Core\obj\Release\netcoreapp2.1\OdeToFood.Core.csproj.CoreCompileInputs.cache
+C:\Users\shukuma\learn\Programming\C#\AspNetCoreFundamentals\OdeToFood\OdeToFood.Core\obj\Release\netcoreapp2.1\OdeToFood.Core.AssemblyInfoInputs.cache
+C:\Users\shukuma\learn\Programming\C#\AspNetCoreFundamentals\OdeToFood\OdeToFood.Core\obj\Release\netcoreapp2.1\OdeToFood.Core.AssemblyInfo.cs
+C:\Users\shukuma\learn\Programming\C#\AspNetCoreFundamentals\OdeToFood\OdeToFood.Core\obj\Release\netcoreapp2.1\OdeToFood.Core.dll
+C:\Users\shukuma\learn\Programming\C#\AspNetCoreFundamentals\OdeToFood\OdeToFood.Core\obj\Release\netcoreapp2.1\OdeToFood.Core.pdb
